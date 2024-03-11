@@ -4,6 +4,8 @@ Neste projeto eu aprendi (PESQUISAR SOBRE ORIGEM DAS LINGUAGENS, FALAR SOBRE C (
 
 C
 
+![image](https://github.com/vanessacsn20/Hello-World-/assets/159178908/5e1afdff-962c-4dbb-ba41-4c8e01c0bedc)
+
 Python
 
 
